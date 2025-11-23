@@ -47,7 +47,7 @@ with col_title:
     st.markdown(
         """
         Extract professional communication metrics from a public video URL using Gemini's multimodal capabilities. 
-        Focus is on **backend proficiency** and **reliable, structured data extraction.**
+        
         """
     )
     st.divider()
