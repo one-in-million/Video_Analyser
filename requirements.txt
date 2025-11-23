@@ -2,4 +2,5 @@ streamlit
 google-genai
 yt-dlp
 python-dotenv
-pydantic # Added for strong type-checking on LLM output
+pydantic
+
