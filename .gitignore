@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+
+# Ignore secrets file
+.env
+
+# Ignore Streamlit cache and local runs
+.streamlit/
+
+# Ignore yt-dlp/ffmpeg temporary files if any remain
+# The code cleans up, but better safe than sorry
+*.mp3
+*.wav
+*.m4a
+
+# Ignore local Streamlit logs
+streamlit_app.log
