@@ -1,6 +1,0 @@
-This file is used by Streamlit Cloud to install system packages via apt-get.
-
-We need both ffmpeg (for audio processing) and nodejs (for yt-dlp's JS runtime).
-
-ffmpeg
-nodejs
