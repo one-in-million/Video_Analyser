@@ -52,8 +52,8 @@ Linux (or Streamlit Cloud Environment): Requires ffmpeg and nodejs. This is hand
 
 1. Clone the repository
 
-git clone <repository-link>
-cd AI-Video-Analyzer-Template
+git clone [<repository-link>](https://github.com/one-in-million/Video_Analyser)
+cd VideoAnalyser
 
 
 2. Create and Activate Virtual Environment
